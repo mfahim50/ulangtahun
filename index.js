@@ -1,0 +1,7 @@
+function TIDAK () {
+	alert("PILIHAN SALAH,SILAHKAN COBA PILIHAN YANG LAIN!!!!!");
+}
+function YA () {
+	alert("TERIMAKASIH UNTUK TETAP INGIN BERSAMA SAYA");
+}
+
